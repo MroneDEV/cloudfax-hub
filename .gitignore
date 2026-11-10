@@ -1,0 +1,9 @@
+# Keep private affiliate strategy, templates & Medium publisher local only
+medium-publisher.html
+MEDIUM-QUORA-REDDIT-PACK.md
+QUORA-REDDIT-40-TEMPLATES.md
+SEO-KEYWORDS-GUIDE.md
+medium-articles/*.md
+medium-articles/images/artworks/
+.DS_Store
+Thumbs.db
